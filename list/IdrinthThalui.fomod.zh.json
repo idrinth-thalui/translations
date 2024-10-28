@@ -12,5 +12,9 @@
   "Chinese, traditional(purely AI)": "汉语,传统(纯AI)",
   "Traditional chinese translation of all texts in the mod using Dynamic String Distributor.": "传统中国语翻译 mod中所有文本使用 Dynamic String Distributor.",
   "Chinese, simplified(purely AI)": "中文,简化(纯AI)",
-  "Simplified chinese translation of all texts in the mod using Dynamic String Distributor.": "使用 Dynamic String Districtbutor 来简化所有 Mod文本的中文翻译."
+  "Simplified chinese translation of all texts in the mod using Dynamic String Distributor.": "使用 Dynamic String Districtbutor 来简化所有 Mod文本的中文翻译.",
+  "Japanese(purely AI)": "日语( 纯AI)",
+  "Japanese translation of all texts in the mod using Dynamic String Distributor.": "使用 Dynamic String Distributor(动态字符串分配器) 来翻译 mod中的所有文本 .",
+  "Spanish(purely AI)": "西班牙语( 纯AI)",
+  "Spanish translation of all texts in the mod using Dynamic String Distributor.": "使用 Dynamic String Distributor 翻译 mod中的所有文本 ."
 }

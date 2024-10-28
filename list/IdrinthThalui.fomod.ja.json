@@ -12,5 +12,9 @@
   "Chinese, traditional(purely AI)": "中国語、繁体字(繁体字)、繁体字(繁体字)",
   "Traditional chinese translation of all texts in the mod using Dynamic String Distributor.": "ダイナミック・ストリング・ディストリビューターを使用して、MOD内のすべてのテキストの伝統的な中国翻訳.",
   "Chinese, simplified(purely AI)": "中国、簡略化(純粋AI)",
-  "Simplified chinese translation of all texts in the mod using Dynamic String Distributor.": "ダイナミック ストリング ディストリビューターを使用して、MOD のすべてのテキストの簡略化された中国語の翻訳."
+  "Simplified chinese translation of all texts in the mod using Dynamic String Distributor.": "ダイナミック ストリング ディストリビューターを使用して、MOD のすべてのテキストの簡略化された中国語の翻訳.",
+  "Japanese(purely AI)": "日本語(純粋AI)",
+  "Japanese translation of all texts in the mod using Dynamic String Distributor.": "動的文字列のディストリビューターを使用して、MOD内のすべてのテキストの日本語訳.",
+  "Spanish(purely AI)": "スペイン語(純粋AI)",
+  "Spanish translation of all texts in the mod using Dynamic String Distributor.": "動的文字列のディストリビューターを使用して、MOD内のすべてのテキストのスペイン語翻訳."
 }
