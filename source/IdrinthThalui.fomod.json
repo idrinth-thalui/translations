@@ -54,5 +54,21 @@
 	{
 		"key": "zh_desc",
 		"string": "Simplified chinese translation of all texts in the mod using Dynamic String Distributor."
+	}.
+	{
+		"key": "ja_title",
+		"string": "Japanese(purely AI)"
+	},
+	{
+		"key": "ja_desc",
+		"string": "Japanese translation of all texts in the mod using Dynamic String Distributor."
+	},
+	{
+		"key": "es_title",
+		"string": "Spanish(purely AI)"
+	},
+	{
+		"key": "es_desc",
+		"string": "Spanish translation of all texts in the mod using Dynamic String Distributor."
 	}
 ]
