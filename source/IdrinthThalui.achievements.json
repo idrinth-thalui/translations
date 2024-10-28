@@ -1,0 +1,114 @@
+[
+  {
+    "key": "$IDR_ExperimentalNotes_NAME",
+    "string": "Experimental Notes"
+  },
+  {
+    "key": "$IDR_ExperimentalNotes_DESC",
+    "string": "You have aquired and read Idrinth's experimental notes."
+  },
+  {
+    "key": "$IDR_LetterFromCalineth_NAME",
+    "string": "Letter from Calineth"
+  },
+  {
+    "key": "$IDR_LetterFromCalineth_DESC",
+    "string": "You have aquired and read a letter from Calineth to Idrinth."
+  },
+  {
+    "key": "$IDR_AFamilyMatter_NAME",
+    "string": "A family matter"
+  },
+  {
+    "key": "$IDR_AFamilyMatter_DESC",
+    "string": "You have aquired and read Idrinth's notes about his family."
+  },
+  {
+    "key": "$IDR_ThalmorDossierCollector_NAME",
+    "string": "Thalmor Dossier Collector"
+  },
+  {
+    "key": "$IDR_ThalmorDossierCollector_DESC",
+    "string": "You have aquired and read all newly added Thalmor Dossiers."
+  },
+  {
+    "key": "$IDR_TheRedYear_NAME",
+    "string": "The Red Year"
+  },
+  {
+    "key": "$IDR_TheRedYear_DESC",
+    "string": "You have aquired and read a journal about the Red Year."
+  },
+  {
+    "key": "$IDR_ThalmorThwarted_NAME",
+    "string": "Thalmor thwarted"
+  },
+  {
+    "key": "$IDR_ThalmorThwarted_DESC",
+    "string": "You have ended one of the Thalmor's schemes."
+  },
+  {
+    "key": "$IDR_Scholar_NAME",
+    "string": "Scholar"
+  },
+  {
+    "key": "$IDR_Scholar_DESC",
+    "string": "You have learned all the unique spells that Idrinth can teach."
+  },
+  {
+    "key": "$IDR_ANewHope_NAME",
+    "string": "A new Hope"
+  },
+  {
+    "key": "$IDR_ANewHope_DESC",
+    "string": "You are near perfect in Idrinth's eyes."
+  },
+  {
+    "key": "$IDR_Achiever_0_57_NAME",
+    "string": "Achiever: 0.57.x"
+  },
+  {
+    "key": "$IDR_Achiever_0_57_DESC",
+    "string": "You have achieved everything possible in 0.57.x."
+  },
+  {
+    "key": "$IDR_BloodDrinker_NAME",
+    "string": "Blood drinker"
+  },
+  {
+    "key": "$IDR_BloodDrinker_DESC",
+    "string": "You have tasted Idrinth's blood and gained power from it."
+  },
+  {
+    "key": "$IDR_WolfTalker_NAME",
+    "string": "Wolf talker"
+  },
+  {
+    "key": "$IDR_WolfTalker_DESC",
+    "string": "You have tried to talk to Idrinth's wolves."
+  },
+  {
+    "key": "$IDR_Deimos_NAME",
+    "string": "Deimos & Idrinth"
+  },
+  {
+    "key": "$IDR_Deimos_DESC",
+    "string": "You have witnessed the full story between the two."
+  },
+  {
+    "key": "$IDR_Irene_NAME",
+    "string": "Irene & Idrinth"
+  },
+  {
+    "key": "$IDR_Irene_DESC",
+    "string": "You have witnessed the full story between the two."
+  },
+  {
+    "key": "$IDR_Achiever_1_0_NAME",
+    "string": "Achiever: 1.0.x"
+  },
+  {
+    "key": "$IDR_Achiever_1_0_DESC",
+    "string": "You have achieved everything possible in 1.0.x."
+  }
+]

@@ -1,0 +1,298 @@
+[
+	{
+		"string": "Like-Logs",
+		"key": "$IdrinthThalui_LogPage"
+	},
+	{
+		"key": "$IdrinthThalui_LogsHeaderTime",
+		"string": "Time"
+	},
+	{
+		"key": "$IdrinthThalui_LogsHeaderData",
+		"string": "Text"
+	},
+	{
+		"key": "$IdrinthThalui_StatPage",
+		"string": "Statistics"
+	},
+	{
+		"key": "$IdrinthThalui_SkillsHeader",
+		"string": "Skills"
+	},
+	{
+		"key": "$IdrinthThalui_AttributesHeader",
+		"string": "Attributes"
+	},
+	{
+		"key": "$IdrinthThalui_SkillTwoHanded",
+		"string": "Two-Handed"
+	},
+	{
+		"key": "$IdrinthThalui_AttributeHealth",
+		"string": "Health"
+	},
+	{
+		"key": "$IdrinthThalui_SkillLightArmor",
+		"string": "Light Armor"
+	},
+	{
+		"key": "$IdrinthThalui_SkillAlteration",
+		"string": "Alteration"
+	},
+	{
+		"key": "$IdrinthThalui_AttributeStamina",
+		"string": "Stamina"
+	},
+	{
+		"key": "$IdrinthThalui_SkillRestoration",
+		"string": "Restoration"
+	},
+	{
+		"key": "$IdrinthThalui_SkillBlock",
+		"string": "Block"
+	},
+	{
+		"key": "$IdrinthThalui_AttributeMagicka",
+		"string": "Magicka"
+	},
+	{
+		"key": "$IdrinthThalui_AttributeArmor",
+		"string": "Armor"
+	},
+	{
+		"key": "$IdrinthThalui_LocationHeader",
+		"string": "Location"
+	},
+	{
+		"key": "$IdrinthThalui_StatusHeader",
+		"string": "Status"
+	},
+	{
+		"key": "$IdrinthThalui_LevelLabel",
+		"string": "Level"
+	},
+	{
+		"key": "$IdrinthThalui_FavorLabel",
+		"string": "Favor"
+	},
+	{
+		"key": "$IdrinthThalui_IsCurrentFollowerLabel",
+		"string": "Is current Follower"
+	},
+	{
+		"key": "$IdrinthThalui_CurrentRaceLabel",
+		"string": "Current Race"
+	},
+	{
+		"key": "$IdrinthThalui_LastSeenLabel",
+		"string": "Last seen in"
+	},
+	{
+		"key": "$IdrinthThalui_shoutsHeardHeader",
+		"string": "Words of Power heard"
+	},
+	{
+		"key": "$IdrinthThalui_shoutsUsedHeader",
+		"string": "Words of Power used"
+	},
+	{
+		"key": "$IdrinthThalui_InventoryPage",
+		"string": "Inventory"
+	},
+	{
+		"key": "$IdrinthThalui_InventoryHeaderArmors",
+		"string": "Armor"
+	},
+	{
+		"key": "$IdrinthThalui_CuirassLabel",
+		"string": "Cuirass"
+	},
+	{
+		"key": "$IdrinthThalui_CommentRate",
+		"string": "Comment rate"
+	},
+	{
+		"key": "$IdrinthThalui_GlovesLabel",
+		"string": "Gloves"
+	},
+	{
+		"key": "$IdrinthThalui_BootsLabel",
+		"string": "Boots"
+	},
+	{
+		"key": "$IdrinthThalui_InventoryHeaderWeapons",
+		"string": "Weapons"
+	},
+	{
+		"key": "$IdrinthThalui_SwordLabel",
+		"string": "Greatsword"
+	},
+	{
+		"key": "$IdrinthThalui_InventoryHeaderPotions",
+		"string": "Potions"
+	},
+	{
+		"key": "$IdrinthThalui_Health01PotionLabel",
+		"string": "Health 1"
+	},
+	{
+		"key": "$IdrinthThalui_Health02PotionLabel",
+		"string": "Health 2"
+	},
+	{
+		"key": "$IdrinthThalui_Health03PotionLabel",
+		"string": "Health 3"
+	},
+	{
+		"key": "$IdrinthThalui_Health04PotionLabel",
+		"string": "Health 4"
+	},
+	{
+		"key": "$IdrinthThalui_Health05PotionLabel",
+		"string": "Health 5"
+	},
+	{
+		"key": "$IdrinthThalui_Health06PotionLabel",
+		"string": "Health 6"
+	},
+	{
+		"key": "$IdrinthThalui_InventoryHeaderFood",
+		"string": "Food"
+	},
+	{
+		"key": "$IdrinthThalui_WolfFeedLabel",
+		"string": "Wolf's Feed"
+	},
+	{
+		"key": "$IdrinthThalui_BloodPotionLabel",
+		"string": "Blood Potion"
+	},
+	{
+		"key": "$IdrinthThalui_SettingsPage",
+		"string": "Settings"
+	},
+	{
+		"key": "$IdrinthThalui_xVASynth",
+		"string": "xVASynth"
+	},
+	{
+		"key": "$IdrinthThalui_Comments",
+		"string": "Idrinth's Comments"
+	},
+	{
+		"key": "$IdrinthThalui_EnableXvaSynth",
+		"string": "Enable comments"
+	},
+	{
+		"key": "$IdrinthThalui_Scripts",
+		"string": "Scripts"
+	},
+	{
+		"key": "$IdrinthThalui_DisableRedressing",
+		"string": "Disable automatic redressing"
+	},
+	{
+		"key": "$IdrinthThalui_Finder",
+		"string": "Search and Find"
+	},
+	{
+		"key": "$IdrinthThalui_EnableFinder",
+		"string": "Enable search quest"
+	},
+	{
+		"key": "$IdrinthThalui_EnableXvaSynthSzenes",
+		"string": "Enable XvaSynth Scenes"
+	},
+	{
+		"key": "$IdrinthThalui_CurrentWolvesLabel",
+		"string": "Current Wolf Count"
+	},
+	{
+		"key": "$IdrinthThalui_WolfCommentRate",
+		"string": "Speaking chance of Wolves"
+	},
+	{
+		"key": "$IdrinthThalui_DisableWolves",
+		"string": "Disable Wolf summoning"
+	},
+	{
+		"key": "$IdrinthThalui_DamageRate",
+		"string": "Damage rate"
+	},
+	{
+		"key": "$IdrinthThalui_DebugPage",
+		"string": "Debug"
+	},
+	{
+		"key": "$IdrinthThalui_ReevaluateAIPackages_OnClose",
+		"string": "Once Closed"
+	},
+	{
+		"key": "$IdrinthThalui_ReevaluateAIPackages_Now",
+		"string": "Now"
+	},
+	{
+		"key": "$IdrinthThalui_ReevaluateAIPackages",
+		"string": "Reevaluate AI-Packages"
+	},
+	{
+		"key": "$IdrinthThalui_TeleportToPlayer_OnClose",
+		"string": "On Close"
+	},
+	{
+		"key": "$IdrinthThalui_TeleportToPlayer_Now",
+		"string": "Now"
+	},
+	{
+		"key": "$IdrinthThalui_TeleportToPlayer",
+		"string": "Teleport to Player"
+	},
+	{
+		"key": "$IdrinthThalui_StopCombat",
+		"string": "Stop Combat"
+	},
+	{
+		"key": "$IdrinthThalui_StopCombat_Now",
+		"string": "Interrupt Now"
+	},
+	{
+		"key": "$IdrinthThalui_NoCombat_OnClose",
+		"string": "On Close"
+	},
+	{
+		"key": "$IdrinthThalui_RemoveWolves",
+		"string": "Remove Wolves"
+	},
+	{
+		"key": "$IdrinthThalui_RemoveWolves_Now",
+		"string": "All Now"
+	},
+	{
+		"key": "$IdrinthThalui_NoWolves_OnClose",
+		"string": "On Close"
+	},
+	{
+		"key": "$IdrinthThalui_UnlockMovement",
+		"string": "Unlock movement"
+	},
+	{
+		"key": "$IdrinthThalui_UnlockMovement_Now",
+		"string": "Now"
+	},
+	{
+		"key": "$IdrinthThalui_UnlockMovement_OnClose",
+		"string": "On Close"
+	},
+	{
+		"key": "$IdrinthThalui_AssassinSpawnAdjustment",
+		"string": "Assassin Spawn Rate"
+	},
+	{
+		"key": "$IdrinthThalui_SkillDestruction",
+		"string": "Destruction"
+	},
+	{
+		"key": "$IdrinthThalui_NPCCommentRate",
+		"string": "NPC Comment Rate"
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"key": "de_title",
+		"string": "German(partially AI)"
+	},
+	{
+		"key": "de_desc",
+		"string": "German translation of all texts in the mod using Dynamic String Distributor. These have been partially fixed and verified by Idrinth."
+	},
+	{
+		"key": "fr_title",
+		"string": "French(partially AI)"
+	},
+	{
+		"key": "fr_desc",
+		"string": "French translation of all texts in the mod using Dynamic String Distributor. These have been partially fixed and verified by Jihan02."
+	},
+	{
+		"key": "it_title",
+		"string": "Italian(purely AI)"
+	},
+	{
+		"key": "it_desc",
+		"string": "Italian translation of all texts in the mod using Dynamic String Distributor."
+	},
+	{
+		"key": "ru_title",
+		"string": "Russian(purely AI)"
+	},
+	{
+		"key": "ru_desc",
+		"string": "Russian translation of all texts in the mod using Dynamic String Distributor."
+	},
+	{
+		"key": "pl_title",
+		"string": "Polish(purely AI)"
+	},
+	{
+		"key": "pl_desc",
+		"string": "Polish translation of all texts in the mod using Dynamic String Distributor."
+	},
+	{
+		"key": "zt_title",
+		"string": "Chinese, traditional(purely AI)"
+	},
+	{
+		"key": "zt_desc",
+		"string": "Traditional chinese translation of all texts in the mod using Dynamic String Distributor."
+	},
+	{
+		"key": "zh_title",
+		"string": "Chinese, simplified(purely AI)"
+	},
+	{
+		"key": "zh_desc",
+		"string": "Simplified chinese translation of all texts in the mod using Dynamic String Distributor."
+	}
+]

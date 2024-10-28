@@ -1,0 +1,1220 @@
+[
+	{
+		"name": "03",
+		"string": "During your sleep you get disrupted by the sound of someone climbing into your window. Not long after the figure of someone wearing elven armour appears and softly jumps into your room. You are sure you know who it is by the beard, so you fall asleep again, planning to ask about it in the morning. When morning arrives you awake, thinking you had a weird dream.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "02",
+		"string": "You see a shadow hovering over your sleeping body. It bows down, showing fangs before biting your neck. When it stands back up straight after having drunk from your blood, you recognise Idrinth in his greyish elven armour quickly retreating from your bed. As you awake, you are unsure if you really dreamed it or not.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "01",
+		"string": "You see a shadow hovering over your sleeping body. It stands guard over you, not moving an inch in the light breeze. When the outside light shifts, it reveals Idrinth's face staring down at you with a soft and friendly expression. You awake later, having felt save during your sleep.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "74",
+		"string": "You find yourself in a cage, starving with hunger. Around you vampires are eating, feasting on blood... Your nostrils twitch at the scent, your fangs bare themselves, eager to bite... You shake your head, clench your fists and curl up in a ball. Your stomach growls loudly, and you hum a sad tune to drown the sound. You awake hungry.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "73",
+		"string": "You watch a fight between an Altmer vampire and an Ice Giant. The vampire seems to lose intentionally. The giant gropes for the vampire's right ear, and with a roar the vampire viciously slashes the giant to pieces with his two blades. Then he adjusts his earring as if nothing happened. You awake with a start.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "72",
+		"string": "You look down at a frightened woman, caged in a small arena. Behind you, SHE sits on a throne, pointing at the woman. \"Kill, my pet.\" You shake your head in defiance. \"Feast on the slave or give me your earring.\" You close your eyes, take a deep breath and jump down, fangs bared. The woman's screams drown your own sobs. You awake feeling sick.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "71",
+		"string": "You sway on your knees, defeated, one of your vampire brothers looming over you. He glees and reaches for your earring. You roar in sudden anger and slash blindly at him. Surprised, he stumbles back. \"Oh, the new boy has some fire in him. Well, keep your precious memento. Soon, there will only be SHE in your mind anyway.\" You awake trembling with anger.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "70",
+		"string": "You are at a wedding ceremony - YOUR wedding ceremony. Your love opens a small jewellery box to reveal two earrings shaped like a mermaid holding a pearl. You smile as you remember the day you found the pearls. \"May they protect us from any harm, my love.\" she whispers as she puts the earrings on both your right ears. You awake with your fingers touching your ear.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "69",
+		"string": "You climb down the cliffs to a hidden lagoon. Your love dives first into the crystal clear waters. She comes up again with a big oyster in her hands. It opens at her touch and reveals two beautiful pearls inside. She picks them up gently and releases the oyster again. \"The stars are with us.\" she whispers.You wake up with the scent of the sea still lingering.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "04",
+		"string": "During the night you wake up from the sound of quiet movement in your room. You see a tall silhouette sneaking towards the window, with a hand on their greatsword. As you grab for the weapon by your side, a small bit of light unveils Idrinth's face on the silhouette, staring ad the window and listening for something. Feeling well taken care of you slide back into bed and sleep until the next morning.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "06",
+		"string": "You awake from pressure on your chest, like someone pressing down on you. Staring into your eyes are a pair of other eyes with a cold, hungry expression. You try to scream, but your mouth is covered by a hand. Laughing quietly and showing fangs, the vampire bows down to bite your neck, revealing Idrinth's face a moment before the teeth touch your neck. You awake screaming.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "05",
+		"string": "You and Idrinth stand across each other, seemingly in an important discussion. After a while he walks closer, opening his mouth showing fangs. You shudder in excitement, presenting your neck to him. As his teeth touch your neck, you suddenly awake, touching your neck for bite-marks you can't find.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "07",
+		"string": "You see a shadow looming over you, in the robes of a Thalmor justiciar. His dagger raised ready to kill. Then the grey shade of Idrinth rushes in silently, killing your would-be assassin.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"quest_id": "0x827",
+			"quest_file": "IdrinthThalui.esp",
+			"quest_stage": "800"
+		}
+	},
+	{
+		"name": "08",
+		"string": "You wake up to see a Thalmor looming over you, dagger in hand. As the blade aims for your heart, you see Idrinth grin beneath the cowl... You wake up with a yelp of fear.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"quest_id": "0x827",
+			"quest_file": "IdrinthThalui.esp",
+			"quest_stage": "800"
+		}
+	},
+	{
+		"name": "09",
+		"string": "You walk through a tall-spired elven city, sparkling with gold and multi-faceted glass. By your side walks a young Altmer. He turns and smiles - it is Idrinth, without vampire fangs. You feel safe.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "11",
+		"string": "You walk though a lush forest till you reach a cliff. You see a giant oak tree with a city built on the branches moving slowly onward. Idrinth stands besides you and grins happily.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "10A",
+		"string": "You walk among the burning ruins of an elven city, tall spires broken, multi-faceted glass shattered. In the distance looms a giant brass figure. Anger wells up in you, and you wake up with the urge to fight.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13743",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "10AV",
+		"string": "You walk among the burning ruins of an elven city, tall spires broken, multi-faceted glass shattered. In the distance looms a giant brass figure. Anger wells up in you, and you wake up with the urge to fight.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88840",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "12BV",
+		"string": "You run on the branches of a giant tree hunting for prey, bow drawn. Idrinth runs besides you and bares his fangs eagerly. A good hunt lies ahead.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88884",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "12B",
+		"string": "You run on the branches of a giant tree hunting for prey, bow drawn. Idrinth runs besides you and bares his fangs eagerly. A good hunt lies ahead.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13749",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "14B",
+		"string": "You ran through the forest. Dead Bosmer everywhere, ripped apart by beasts. A shadow growls at you. It is Idrinth, fangs bared to kill. You awake with a scream.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13749",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "14BV",
+		"string": "You ran through the forest. Dead Bosmer everywhere, ripped apart by beasts. A shadow growls at you. It is Idrinth, fangs bared to kill. You awake with a scream.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88884",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "15",
+		"string": "You wander around a pristine Dunmer city on a lake. As you cross one of the bridges, Idrinth points out a big rock floating above your heads. You wake up with a smile.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "13",
+		"string": "You ran through the forest. You can hear only the sounds of your steps. Everything is quiet - too quiet. You sense someone behind you. Hunting you. You awake in fear.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "16DV",
+		"string": "You stand on a bridge in the fabled Vivec City, looking around in awe. Members of all Houses stream past you. Above you floats the Baar Dau. You wake up with a sigh of grief.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x8883D",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "16D",
+		"string": "You stand on a bridge in the fabled Vivec City, looking around in awe. Members of all Houses stream past you. Above you floats the Baar Dau. You wake up with a sigh of grief.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13742",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "18DV",
+		"string": "You ran through a burning Dunmer city to the sound of Argonian warcries. Idrinth grabs you and shoves you into the arms of a bloodthirsty Argonian. You awake coated in sweat.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x8883D",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "18D",
+		"string": "You ran through a burning Dunmer city to the sound of Argonian warcries. Idrinth grabs you and shoves you into the arms of a bloodthirsty Argonian. You awake coated in sweat.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13742",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "17",
+		"string": "You walk with Idrinth through a great Dunmer city. An older redheaded Dunmer beauty walks by and smiles at you. You feel your heart beat faster. You wake up smiling.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "19",
+		"string": "You stand in the burning ruins of a Dunmer city. A deep rumble echoes behind you, and streams of fire run towards you. You run through the ash as the heat catches up. You awake screaming.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "21V",
+		"string": "Idrinth wakes you and leads you to an inn. You feel hungry. You enter, and the guests start to scream. You smell their blood and start to feast. Idrinth smiles at you. You wake up with a start.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"vampire_only": "1"
+		}
+	},
+	{
+		"name": "21WW",
+		"string": "Idrinth wakes you and leads you to an inn. You feel hungry. You enter, and the guests start to scream. You smell their blood and start to feast. Idrinth smiles at you. You wake up with a start.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"werewolf_only": "1"
+		}
+	},
+	{
+		"name": "20",
+		"string": "You walk a snowy road. A metal horse powered by steam appears, it's bearded rider wearing Dwemer armour. He looks at you for a moment and rides on. The snow melts under the hoofprints.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "22",
+		"string": "You and Idrinth are sent to deliver a letter. A skeleton leads you on to his master. An Altmer mage with long white hair stands with his back turned. As he turns around, you see that he's a lich. He smiles as you back away.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "24",
+		"string": "Your eyes see a small crowd of Altmer standing before a priest. A very young Idrinth and a beautiful, young woman walk towards the priest, smiling happily at each other. The priest says a few words you can't quite make out, but you see the exchange of wedding bands. As you join the people congratulating, you feel like you don't belong, waking up just as you are about the see the face of Idrinth's veiled wife.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "23",
+		"string": "Your eyes open and you see a dark room in front of you. From beyond a door you hear voices talking. Sneaking slowly to the door, you feel somewhat off, but unable to place the feeling. As you reach the door it opens and a beautiful woman looks at you with cold, hungry eyes. \"Welcome to the family\" she says, showing fangs. You awake irritated.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "25",
+		"string": "You are in an open area, desert winds blowing soft sand towards you. Next to you an enthusiastic Idrinth is acting as if he wanted to sail in the wind while standing in the middle of a bloodbath. Dozens of Akaviri warriors slaughtered, most without having their weapons drawn. You awake gasping.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "28",
+		"string": "Your eyes glance over the front rows of an army, feeling tiny and insignificant in comparison. Suddenly a hand grabs your shoulder, spinning around, you see Idrinth with a slight smile on his face among Orsimer. Feeling a bit reassured, you turn back to your enemies. As they set themselves into motion you awake.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "27",
+		"string": "Your eyes see an oasis within a great desert. It seems to be very close. Thirsty you stumble towards it, not seeming to make any progress. Dragging on you move slower and slower until you collapse. As your eyes close, you awake, feeling thirsty.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "29",
+		"string": "Your eyes open wide as you see the open sea ahead. You're standing on the deck of a ship, staring ahead to spot land. A storm rises in the distance, getting closer and closer. It begins to hurl lightning bolts at the small elf ship, and the ship squirms in the storm. You wake up because you fell out of bed.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "30",
+		"string": "Before you open your eyes, you hear someone crying. As you open them, you see slaughtered people, in their midst someone kneeling, crying and looking at his blood soaked hands. It takes you a moment to recognise a younger Idrinth as the person kneeling. As he raises his head and sees you, your eyes meet with his dead but sad gaze. He whispers \"I'm sorry\" as you awake.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "31",
+		"string": "You find yourself in the midst of battle, surrounded by all sides. A tall elf in white-gold shiny armour appears, felling the enemies like wheat with his greatsword. He smiles at you, and you recognise Idrinth. You feel invigorated.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "32A",
+		"string": "You are attacked by hordes of Dremora. As you fell to your knees, you see a warrior sweeping through the hordes like an avatar of Trinimac, laughing with delight. He turns to you, and you recognise Idrinth, his eyes glowing with divine light. You awake invigorated.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13743",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "32AV",
+		"string": "You are attacked by hordes of Dremora. As you fell to your knees, you see a warrior sweeping through the hordes like an avatar of Trinimac, laughing with delight. He turns to you, and you recognise Idrinth, his eyes glowing with divine light. You awake invigorated.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88840",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "33O",
+		"string": "You charge into battle, blood boiling in your veins. Praising Malacath, you vanquish your enemies with ease. Beside you fights an Altmer, matching your heavy blows. He grins at you, vampire fangs showing. \"For Trinimac!\" yells Idrinth. You awake invigorated.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13747",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "33OV",
+		"string": "You charge into battle, blood boiling in your veins. Praising Malacath, you vanquish your enemies with ease. Beside you fights an Altmer, matching your heavy blows. He grins at you, vampire fangs showing. \"For Trinimac!\" yells Idrinth. You awake invigorated.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0xA82B9",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "33O",
+		"string": "You charge into battle, praising Malacath. Your blood boils in your veins. A tall Altmer faces you, vampire fangs bared. It is Idrinth, and the mighty strokes of his greatsword brings you down to your knees. You feel his fangs in your neck, and you faint...You awake in cold sweat.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13747",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "33OV",
+		"string": "You charge into battle, praising Malacath. Your blood boils in your veins. A tall Altmer faces you, vampire fangs bared. It is Idrinth, and the mighty strokes of his greatsword brings you down to your knees. You feel his fangs in your neck, and you faint...You awake in cold sweat.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0xA82B9",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "37",
+		"string": "Having your eyes closed you hear a soft sound vibrating through your body. The moment it ends, a new sound replaces it. Continuing, the sounds lighten your mood. As you open your eyes you awake feeling happier than the evening before.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "38",
+		"string": "Opening your eyes you see a great area of ice and snow. An army is moving around you, following a leader you can't see. The Nords around continue chanting war songs until you awake.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "39",
+		"string": "You find yourself in a destroyed house. From the basement you hear the sobbing of little children. You heave aside the rabble blocking the trapdoor and open it. Down below a group of children huddle together, looking at you with sudden hope. With a smile you awake.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "41",
+		"string": "You walk through the ruins of a destroyed Altmer village. A terrible battle took place here. Under the debris you hear a faint cry for help. You start to dig through the rubble. Two boys, looking alike, stare at you trembling with fear. No, they stare *behind* you...You awake with a scream.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "40",
+		"string": "You stand in the ruins of a destroyed house. Your nostrils twitch as you smell blood. You claw at the rubble blocking the basement trapdoor, forcing it open. Down below a group of children huddle together, and they start to scream as you approach. You bare your fangs and laugh...You awake in a cold sweat.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "42",
+		"string": "You stumble through the ruins of an Altmer village. A terrible battle has taken place. You hear a scream and run towards it. Altmer twin boys huddle together under an upturned cart, and a grown Altmer in hooded black robes towers above them. You can hear his feral snarl, as he leaps at the shrieking children...You awake, hands searching unconsciously for your weapon.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "43",
+		"string": "You are lost in the darkness. You stumble around, searching for something, anything to find. Your hands find a rough stone wall. Groping your way, you find yourself in a big circular room with no door to be felt, and the ground made of large, cut boulders. Then you feel something behind you...something big. Very big. You awake with a start.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "44AV",
+		"string": "You run down a path between the dunes, down to the beach. Your siblings are already in the water, their golden skin gleaming in the sun. With a joyful shout you storm into the waves, splashing your siblings. You can hear your mother's laughter from the beach. You awake with a smile on your lips.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88840",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "44A",
+		"string": "You run down a path between the dunes, down to the beach. Your siblings are already in the water, their golden skin gleaming in the sun. With a joyful shout you storm into the waves, splashing your siblings. You can hear your mother's laughter from the beach. You awake with a smile on your lips.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13743",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "44A",
+		"string": "You sit in the garden, reading a book. The distinct smell of Rainbow Pie drifts through the air, and makes your stomach growl in anticipation. You hurry into the kitchen, trying to sneak past your mother. She lifts the pie out of your reach, warning it's still too hot to eat. You awake with your mouth watering.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13743",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "44AV",
+		"string": "You sit in the garden, reading a book. The distinct smell of Rainbow Pie drifts through the air, and makes your stomach growl in anticipation. You hurry into the kitchen, trying to sneak past your mother. She lifts the pie out of your reach, warning it's still too hot to eat. You awake with your mouth watering.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88840",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "44AV",
+		"string": "You watch a parade with your family. Amongst the Altmer warriors in their golden armour walk other Elves, some pale as snow with white armour, others bronze-skinned in colourful plating. As they pass you, you long to one day walk among them, worshipping Trinimac. You awake eager for battle.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88840",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "44A",
+		"string": "You watch a parade with your family. Amongst the Altmer warriors in their golden armour walk other Elves, some pale as snow with white armour, others bronze-skinned in colourful plating. As they pass you, you long to one day walk among them, worshipping Trinimac. You awake eager for battle.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13743",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "54",
+		"string": "You awake to the smell of roses and pumpkins. The New Life Festival! You hurry down to join your siblings in getting your portion of Aldmeri orphan gruel, before your whole family sets out to bring food and presents to the poor people, many of them Chimer. You sing along happily with your siblings. You awake homesick.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "55",
+		"string": "You race with your siblings to your aunt's house. You can already smell the roast pig, and can't wait for the honey pudding and clarified coffee you're allowed to drink at New Life Festival. Small gifts are laying beside your plate, and you squeal with joy as you unwrap the silk cloak you'll wear for the next Parade of the Paragons. You awake filled with joy.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "56",
+		"string": "You walk home with your family from your aunt's New Life Festival party. A bunch of small children with antlers jump out of the orchard and throw mudballs at you. They miss you and hit your father. The kids freeze in shock. Your father frowns at his muddied robe, then burst out with laughter. You awake with a chuckle.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "57",
+		"string": "You run down a corridor, already late for class. At a corner you run into a girl, and both your books scatter on the ground. You mumble an apology, start to pick up her books and freeze mid-motion, enthralled by the most beautiful girl you've ever seen. She blushes, thanks you and hurries away. You sigh, grab your books and run on. You awake with a grin on your face.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "58",
+		"string": "You play around with a wooden sparring sword, your books forgotten under a tree. You see the beautiful girl watching you, and try to impress her with even more daring slashes. You stumble over a root, and hear her laugh. You look up, and she stands before you, holding out her hand to help you up. \"My paragon...\". You both blush, and she runs away. You wake up with a sigh.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "59",
+		"string": "You sneak out of the house. In the starlight you see a shadow under the wisteria arch. It is her, waiting for you. With a sheepish grin you give her the roses you nicked from the garden, and she kisses you. A shooting star falls down, and you wish this night will never end. You wake up sad.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "60",
+		"string": "You sneak away from the Spring Ball and the girl your parents wanted you to dance with. In the starlight you see a shadow waiting for you beneath the cherry trees. A few petals had fallen in her hair, and you brush them away. She embraces you, and you two start to dance to a tune only you can hear. You awake with a tear in your eye.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "61",
+		"string": "You run down the school corridor, late as always. Around the corner you bump into a Psijic monk, and hastily apologise for your behaviour. He looks closely at you. \"Straighten your robes, young man. Your tutor will be angry enough.\" You blush, bow deeply and stride on, shuffling your books. You awake embarrassed.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "62",
+		"string": "You and your love meet again under the wisteria arch. You embrace her, but then you hear your father's angry voice, calling you home. You turn and see him striding towards you, one hand readying a fireball. Your love gasps and runs away into the night. Your father reaches you and slaps you in the face. You glare at him and storm off to your room. You awake angrily.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "63",
+		"string": "You lean against the wall, bored and tired. You start to make faces at the solemn party guests, till a priest of Auri-El steps towards you. Snarling in disgust, he scolds you for not acting befitting of your noble upbringing. You square your shoulders and attend a more graceful position, but make a face at the priest's back. You awake with a smile.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "53OV",
+		"string": "You walk through the tall-spired Elven city. before you a bronze-skinned Elf and two leashed, round-eared women with silvery skin are stopped by a priest of Auri-El. \"Your human slaves will not defile this holy ground, Ayleid heretic!\" The Ayleid storms away, dragging the frightened women behind him. The crowd gives way for them, their backs turned, faces distorted in disgust. You awake angry.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0xA82B9",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "53O",
+		"string": "You walk through the tall-spired Elven city. before you a bronze-skinned Elf and two leashed, round-eared women with silvery skin are stopped by a priest of Auri-El. \"Your human slaves will not defile this holy ground, Ayleid heretic!\" The Ayleid storms away, dragging the frightened women behind him. The crowd gives way for them, their backs turned, faces distorted in disgust. You awake angry.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13747",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "53DV",
+		"string": "You walk through the tall-spired Elven city. before you a bronze-skinned Elf and two leashed, round-eared women with silvery skin are stopped by a priest of Auri-El. \"Your human slaves will not defile this holy ground, Ayleid heretic!\" The Ayleid storms away, dragging the frightened women behind him. The crowd gives way for them, their backs turned, faces distorted in disgust. You awake angry.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x8883D",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "53D",
+		"string": "You walk through the tall-spired Elven city. before you a bronze-skinned Elf and two leashed, round-eared women with silvery skin are stopped by a priest of Auri-El. \"Your human slaves will not defile this holy ground, Ayleid heretic!\" The Ayleid storms away, dragging the frightened women behind him. The crowd gives way for them, their backs turned, faces distorted in disgust. You awake angry.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13742",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "53BV",
+		"string": "You walk through the tall-spired Elven city. before you a bronze-skinned Elf and two leashed, round-eared women with silvery skin are stopped by a priest of Auri-El. \"Your human slaves will not defile this holy ground, Ayleid heretic!\" The Ayleid storms away, dragging the frightened women behind him. The crowd gives way for them, their backs turned, faces distorted in disgust. You awake angry.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88884",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "53B",
+		"string": "You walk through the tall-spired Elven city. before you a bronze-skinned Elf and two leashed, round-eared women with silvery skin are stopped by a priest of Auri-El. \"Your human slaves will not defile this holy ground, Ayleid heretic!\" The Ayleid storms away, dragging the frightened women behind him. The crowd gives way for them, their backs turned, faces distorted in disgust. You awake angry.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13749",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "53AV",
+		"string": "You walk through the tall-spired Elven city. before you a bronze-skinned Elf and two leashed, round-eared women with silvery skin are stopped by a priest of Auri-El. \"Your human slaves will not defile this holy ground, Ayleid heretic!\" The Ayleid storms away, dragging the frightened women behind him. The crowd gives way for them, their backs turned, faces distorted in disgust. You awake angry.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88840",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "53A",
+		"string": "You walk through the tall-spired Elven city. before you a bronze-skinned Elf and two leashed, round-eared women with silvery skin are stopped by a priest of Auri-El. \"Your human slaves will not defile this holy ground, Ayleid heretic!\" The Ayleid storms away, dragging the frightened women behind him. The crowd gives way for them, their backs turned, faces distorted in disgust. You awake angry.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13743",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "52",
+		"string": "You play with your siblings on the beach. Another boy comes towards you, about your age yet smaller than you. You start building a beautiful sand castle, imagining to be both mighty gryphon riders. Your mother calls you away, warning you not to play with Chimer again. As you look back, the Chimer boy cries silently. You awake filled with sadness.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "64",
+		"string": "Your siblings are bustling around, getting ready for the Spring Ball. Both are talking enthusiastically about their dancing partners. You don your ceremonial festival robes and follow them, wishing you could dance with your love. A young, overexcited Altmer girl in a very expensive dress grabs your arm, and you force yourself to smile. You awake with the grim smile still on your face.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "65",
+		"string": "You walk home from school. The shriek of a golden eagle passing makes you look up. A single feather floats down and lands in your outstretched hand. You marvel at the feather, longer than your arm and shining like spun gold. Then you run home to show it to your mother. You awake.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "67",
+		"string": "You walk trough the night. Up ahead a group of Khajiit huddle around a campfire, weapons drawn, ears flat against their heads, fangs bared. You notice no other sounds than their breath. Then a vicious snarl erupts, and a tall figure lands between the Khajiit, lashing out with his blades. Within moments all of them lay on the ground, and the tall figure bends over to drink their blood. You wake up with racing heart.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "66",
+		"string": "You walk trough the night. Up ahead you see a campfire, a group of Khajiit traders huddled around it. Their voices sound joyous, but the two armed guards scan the area with eyes and ears. Then silence falls around you. The Khajiit stand up, all ready for a fight, their backs to the fire. After a few moments the nocturnal animals resume their nightly concert, and the Khajiit relax. You wake up.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "51OV",
+		"string": "You watch a group of small, gold-skinned Elves stumbling drunk through the streets, catcalling women. A snow-skinned Elf in a white-gold armour steps in their way. He leans on his two-handed sword and looks sternly at them. They bow their heads and hurry away, cursing under their breath. You awake with a blush after hearing these foul curses.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0xA82B9",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "51O",
+		"string": "You watch a group of small, gold-skinned Elves stumbling drunk through the streets, catcalling women. A snow-skinned Elf in a white-gold armour steps in their way. He leans on his two-handed sword and looks sternly at them. They bow their heads and hurry away, cursing under their breath. You awake with a blush after hearing these foul curses.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13747",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "51DV",
+		"string": "You watch a group of small, gold-skinned Elves stumbling drunk through the streets, catcalling women. A snow-skinned Elf in a white-gold armour steps in their way. He leans on his two-handed sword and looks sternly at them. They bow their heads and hurry away, cursing under their breath. You awake with a blush after hearing these foul curses.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x8883D",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "51D",
+		"string": "You watch a group of small, gold-skinned Elves stumbling drunk through the streets, catcalling women. A snow-skinned Elf in a white-gold armour steps in their way. He leans on his two-handed sword and looks sternly at them. They bow their heads and hurry away, cursing under their breath. You awake with a blush after hearing these foul curses.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13742",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "51BV",
+		"string": "You watch a group of small, gold-skinned Elves stumbling drunk through the streets, catcalling women. A snow-skinned Elf in a white-gold armour steps in their way. He leans on his two-handed sword and looks sternly at them. They bow their heads and hurry away, cursing under their breath. You awake with a blush after hearing these foul curses.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88884",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "51B",
+		"string": "You watch a group of small, gold-skinned Elves stumbling drunk through the streets, catcalling women. A snow-skinned Elf in a white-gold armour steps in their way. He leans on his two-handed sword and looks sternly at them. They bow their heads and hurry away, cursing under their breath. You awake with a blush after hearing these foul curses.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13749",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "51AV",
+		"string": "You watch a group of small, gold-skinned Elves stumbling drunk through the streets, catcalling women. A snow-skinned Elf in a white-gold armour steps in their way. He leans on his two-handed sword and looks sternly at them. They bow their heads and hurry away, cursing under their breath. You awake with a blush after hearing these foul curses.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88840",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "51A",
+		"string": "You watch a group of small, gold-skinned Elves stumbling drunk through the streets, catcalling women. A snow-skinned Elf in a white-gold armour steps in their way. He leans on his two-handed sword and looks sternly at them. They bow their heads and hurry away, cursing under their breath. You awake with a blush after hearing these foul curses.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13743",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "50OV",
+		"string": "You seek shelter from the rain in a cave. Inside sits an Orsimer by the fire, wearing the robes of a priest of Trinimac. He looks at you intensely, and offers you a seat by the fire. As you sit down, he smiles and mutters a blessing. You awake ready for battle.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0xA82B9",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "50AV",
+		"string": "You seek shelter from the rain in a cave. Inside sits an Orsimer by the fire, wearing the robes of a priest of Trinimac. He looks at you intensely, and offers you a seat by the fire. As you sit down, he smiles and mutters a blessing. You awake ready for battle.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88840",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "50O",
+		"string": "You seek shelter from the rain in a cave. Inside sits an Orsimer by the fire, wearing the robes of a priest of Trinimac. He looks at you intensely, and offers you a seat by the fire. As you sit down, he smiles and mutters a blessing. You awake ready for battle.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13747",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "50A",
+		"string": "You seek shelter from the rain in a cave. Inside sits an Orsimer by the fire, wearing the robes of a priest of Trinimac. He looks at you intensely, and offers you a seat by the fire. As you sit down, he smiles and mutters a blessing. You awake ready for battle.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13743",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "47",
+		"string": "You hurry after your father through the crowd. Another gold-skinned Elf runs into you, smaller than the Altmer around you. \"Azura curse you!\" he hisses. Your father turns around sternly: \"Leave my son alone, foul Chimer! May Auri-El wipe you from our sacred lands!\" He hastily drags you away, and you feel that his hand is trembling. You awake confused.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp"
+		}
+	},
+	{
+		"name": "46B",
+		"string": "You watch a parade with your family. Amongst the Altmer warriors in their golden armour walk other Elves, some pale as snow with white armour, others bronze-skinned in colourful plating. As they pass you, you long to one day walk among them, worshipping Trinimac. You awake eager for battle.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13749",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "46BV",
+		"string": "You watch a parade with your family. Amongst the Altmer warriors in their golden armour walk other Elves, some pale as snow with white armour, others bronze-skinned in colourful plating. As they pass you, you long to one day walk among them, worshipping Trinimac. You awake eager for battle.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88884",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "46DV",
+		"string": "You watch a parade with your family. Amongst the Altmer warriors in their golden armour walk other Elves, some pale as snow with white armour, others bronze-skinned in colourful plating. As they pass you, you long to one day walk among them, worshipping Trinimac. You awake eager for battle.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x8883D",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "46D",
+		"string": "You watch a parade with your family. Amongst the Altmer warriors in their golden armour walk other Elves, some pale as snow with white armour, others bronze-skinned in colourful plating. As they pass you, you long to one day walk among them, worshipping Trinimac. You awake eager for battle.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13742",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "46OV",
+		"string": "You watch a parade with your family. Amongst the Altmer warriors in their golden armour walk other Elves, some pale as snow with white armour, others bronze-skinned in colourful plating. As they pass you, you long to one day walk among them, worshipping Trinimac. You awake eager for battle.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0xA82B9",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "46O",
+		"string": "You watch a parade with your family. Amongst the Altmer warriors in their golden armour walk other Elves, some pale as snow with white armour, others bronze-skinned in colourful plating. As they pass you, you long to one day walk among them, worshipping Trinimac. You awake eager for battle.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13747",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "46A",
+		"string": "You watch a parade with your family. Amongst the Altmer warriors in their golden armour walk other Elves, some pale as snow with white armour, others bronze-skinned in colourful plating. As they pass you, you long to one day walk among them, worshipping Trinimac. You awake eager for battle.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13743",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "46AV",
+		"string": "You watch a parade with your family. Amongst the Altmer warriors in their golden armour walk other Elves, some pale as snow with white armour, others bronze-skinned in colourful plating. As they pass you, you long to one day walk among them, worshipping Trinimac. You awake eager for battle.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88840",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "48A",
+		"string": "You sneak around a corner and peek through an ornamental hole in the wall. On the other side several snow-skinned Elves are training with their blades, their armour as white as their hair. A priest of Trinimac oversees them. He turns to you with a smile on his golden lips and nods ere he proceeds to watch. You awake invigorated.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13743",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "48AV",
+		"string": "You sneak around a corner and peek through an ornamental hole in the wall. On the other side several snow-skinned Elves are training with their blades, their armour as white as their hair. A priest of Trinimac oversees them. He turns to you with a smile on his golden lips and nods ere he proceeds to watch. You awake invigorated.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88840",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "48B",
+		"string": "You sneak around a corner and peek through an ornamental hole in the wall. On the other side several snow-skinned Elves are training with their blades, their armour as white as their hair. A priest of Trinimac oversees them. He turns to you with a smile on his golden lips and nods ere he proceeds to watch. You awake invigorated.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13749",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "48BV",
+		"string": "You sneak around a corner and peek through an ornamental hole in the wall. On the other side several snow-skinned Elves are training with their blades, their armour as white as their hair. A priest of Trinimac oversees them. He turns to you with a smile on his golden lips and nods ere he proceeds to watch. You awake invigorated.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88884",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "48D",
+		"string": "You sneak around a corner and peek through an ornamental hole in the wall. On the other side several snow-skinned Elves are training with their blades, their armour as white as their hair. A priest of Trinimac oversees them. He turns to you with a smile on his golden lips and nods ere he proceeds to watch. You awake invigorated.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13742",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "48O",
+		"string": "You sneak around a corner and peek through an ornamental hole in the wall. On the other side several snow-skinned Elves are training with their blades, their armour as white as their hair. A priest of Trinimac oversees them. He turns to you with a smile on his golden lips and nods ere he proceeds to watch. You awake invigorated.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13747",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "48DV",
+		"string": "You sneak around a corner and peek through an ornamental hole in the wall. On the other side several snow-skinned Elves are training with their blades, their armour as white as their hair. A priest of Trinimac oversees them. He turns to you with a smile on his golden lips and nods ere he proceeds to watch. You awake invigorated.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x8883D",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "48OV",
+		"string": "You sneak around a corner and peek through an ornamental hole in the wall. On the other side several snow-skinned Elves are training with their blades, their armour as white as their hair. A priest of Trinimac oversees them. He turns to you with a smile on his golden lips and nods ere he proceeds to watch. You awake invigorated.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0xA82B9",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "49A",
+		"string": "You are at the harbour, watching a storm-damaged ship. It looks different from all ships you've ever seen, and the Elves have blueish skin, shining like mother-of-pearl. They look darkly at the crowd. Altmer guards are standing ready, letting no spectators through. Your mother grabs your hand and pulls you away. You awake with the nagging feeling of danger.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13743",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "49AV",
+		"string": "You are at the harbour, watching a storm-damaged ship. It looks different from all ships you've ever seen, and the Elves have blueish skin, shining like mother-of-pearl. They look darkly at the crowd. Altmer guards are standing ready, letting no spectators through. Your mother grabs your hand and pulls you away. You awake with the nagging feeling of danger.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88840",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "49B",
+		"string": "You are at the harbour, watching a storm-damaged ship. It looks different from all ships you've ever seen, and the Elves have blueish skin, shining like mother-of-pearl. They look darkly at the crowd. Altmer guards are standing ready, letting no spectators through. Your mother grabs your hand and pulls you away. You awake with the nagging feeling of danger.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13749",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "49D",
+		"string": "You are at the harbour, watching a storm-damaged ship. It looks different from all ships you've ever seen, and the Elves have blueish skin, shining like mother-of-pearl. They look darkly at the crowd. Altmer guards are standing ready, letting no spectators through. Your mother grabs your hand and pulls you away. You awake with the nagging feeling of danger.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13742",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "49BV",
+		"string": "You are at the harbour, watching a storm-damaged ship. It looks different from all ships you've ever seen, and the Elves have blueish skin, shining like mother-of-pearl. They look darkly at the crowd. Altmer guards are standing ready, letting no spectators through. Your mother grabs your hand and pulls you away. You awake with the nagging feeling of danger.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88884",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "49O",
+		"string": "You are at the harbour, watching a storm-damaged ship. It looks different from all ships you've ever seen, and the Elves have blueish skin, shining like mother-of-pearl. They look darkly at the crowd. Altmer guards are standing ready, letting no spectators through. Your mother grabs your hand and pulls you away. You awake with the nagging feeling of danger.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13747",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "49DV",
+		"string": "You are at the harbour, watching a storm-damaged ship. It looks different from all ships you've ever seen, and the Elves have blueish skin, shining like mother-of-pearl. They look darkly at the crowd. Altmer guards are standing ready, letting no spectators through. Your mother grabs your hand and pulls you away. You awake with the nagging feeling of danger.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x8883D",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "49OV",
+		"string": "You are at the harbour, watching a storm-damaged ship. It looks different from all ships you've ever seen, and the Elves have blueish skin, shining like mother-of-pearl. They look darkly at the crowd. Altmer guards are standing ready, letting no spectators through. Your mother grabs your hand and pulls you away. You awake with the nagging feeling of danger.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0xA82B9",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "68A",
+		"string": "You play on the beach. A bronze-skinned noblewoman strides past, two children with her. The girl looks like her, and orders the pale-skinned boy around to gather sea shells. He stumbles near you, and as you reach out your hand to help him, you see his round ears. He flinches and stands up hastily, apologising all the time. His eyes are wide with fear. You awake confused.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13743",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "68B",
+		"string": "You play on the beach. A bronze-skinned noblewoman strides past, two children with her. The girl looks like her, and orders the pale-skinned boy around to gather sea shells. He stumbles near you, and as you reach out your hand to help him, you see his round ears. He flinches and stands up hastily, apologising all the time. His eyes are wide with fear. You awake confused.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13749",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "68AV",
+		"string": "You play on the beach. A bronze-skinned noblewoman strides past, two children with her. The girl looks like her, and orders the pale-skinned boy around to gather sea shells. He stumbles near you, and as you reach out your hand to help him, you see his round ears. He flinches and stands up hastily, apologising all the time. His eyes are wide with fear. You awake confused.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88840",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "68Bo",
+		"string": "You play on the beach. A bronze-skinned noblewoman strides past, two children with her. The girl looks like her, and orders the pale-skinned boy around to gather sea shells. He stumbles near you, and as you reach out your hand to help him, you see his round ears. He flinches and stands up hastily, apologising all the time. His eyes are wide with fear. You awake confused.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13749",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "68BoV",
+		"string": "You play on the beach. A bronze-skinned noblewoman strides past, two children with her. The girl looks like her, and orders the pale-skinned boy around to gather sea shells. He stumbles near you, and as you reach out your hand to help him, you see his round ears. He flinches and stands up hastily, apologising all the time. His eyes are wide with fear. You awake confused.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x88884",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "68Br",
+		"string": "You play on the beach. A bronze-skinned noblewoman strides past, two children with her. The girl looks like her, and orders the pale-skinned boy around to gather sea shells. He stumbles near you, and as you reach out your hand to help him, you see his round ears. He flinches and stands up hastily, apologising all the time. His eyes are wide with fear. You awake confused.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13741",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "68BrV",
+		"string": "You play on the beach. A bronze-skinned noblewoman strides past, two children with her. The girl looks like her, and orders the pale-skinned boy around to gather sea shells. He stumbles near you, and as you reach out your hand to help him, you see his round ears. He flinches and stands up hastily, apologising all the time. His eyes are wide with fear. You awake confused.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x8883C",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "68D",
+		"string": "You play on the beach. A bronze-skinned noblewoman strides past, two children with her. The girl looks like her, and orders the pale-skinned boy around to gather sea shells. He stumbles near you, and as you reach out your hand to help him, you see his round ears. He flinches and stands up hastily, apologising all the time. His eyes are wide with fear. You awake confused.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13742",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "68DV",
+		"string": "You play on the beach. A bronze-skinned noblewoman strides past, two children with her. The girl looks like her, and orders the pale-skinned boy around to gather sea shells. He stumbles near you, and as you reach out your hand to help him, you see his round ears. He flinches and stands up hastily, apologising all the time. His eyes are wide with fear. You awake confused.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x8883D",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "68O",
+		"string": "You play on the beach. A bronze-skinned noblewoman strides past, two children with her. The girl looks like her, and orders the pale-skinned boy around to gather sea shells. He stumbles near you, and as you reach out your hand to help him, you see his round ears. He flinches and stands up hastily, apologising all the time. His eyes are wide with fear. You awake confused.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0x13747",
+			"race_file": "Skyrim.esm"
+		}
+	},
+	{
+		"name": "68OV",
+		"string": "You play on the beach. A bronze-skinned noblewoman strides past, two children with her. The girl looks like her, and orders the pale-skinned boy around to gather sea shells. He stumbles near you, and as you reach out your hand to help him, you see his round ears. He flinches and stands up hastily, apologising all the time. His eyes are wide with fear. You awake confused.",
+		"properties": {
+			"follower_id": "0x803",
+			"follower_file": "IdrinthThalui.esp",
+			"race_id": "0xA82B9",
+			"race_file": "Skyrim.esm"
+		}
+	}
+]
