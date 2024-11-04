@@ -66,5 +66,6 @@
   "Skills": "Fähigkeiten",
   "Attributes": "Attribute",
   "Two-Handed": "Zweihändig",
-  "Health": "Gesundheit"
+  "Health": "Gesundheit",
+  "$IdrinthThalui_CircletLabel": "@TODO"
 }
