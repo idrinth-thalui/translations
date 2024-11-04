@@ -294,5 +294,9 @@
 	{
 		"key": "$IdrinthThalui_NPCCommentRate",
 		"string": "NPC Comment Rate"
+	},
+	{
+		"key": "$IdrinthThalui_CircletLabel",
+		"string": "Circlet"
 	}
 ]
